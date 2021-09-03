@@ -1,0 +1,15 @@
+.footerGrid {
+  margin: 0.5% 0 !important;
+  margin-top: 2% !important;
+}
+
+.footerItem {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  display: flex !important;
+}
+
+.icon {
+  fill: black !important;
+}
