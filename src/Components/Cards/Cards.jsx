@@ -22,7 +22,7 @@ var Cards = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
             <Typography color="textSecondary" gutterBottom>
               Infected
             </Typography>
-            <Typography variant="h5">
+            <Typography variant="h6">
               <CountUp
                 start={0}
                 end={confirmed.value}
